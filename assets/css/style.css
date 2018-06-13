@@ -1,0 +1,37 @@
+body{ background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    clear: both;
+    overflow: auto;
+}
+
+.column1 { display: block;
+          height: 600px;
+          width: 200px;
+          border: dashed;
+          text-align: center;
+          color: white;
+          float: left;
+          overflow: auto;
+          margin-left: 338px;
+
+} 
+
+img { margin-top: 10px;
+        width: 125px;
+        height: 125px;
+
+}
+
+.column2 { display: block;
+            height: 600px;
+            width: 200px;
+            border: dashed;
+            text-align: center;
+            color: white;
+            float: right;
+            overflow: auto;
+            margin-right: 338px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        
+} 
