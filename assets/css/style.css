@@ -13,7 +13,7 @@ body{ background-color: black;
           color: white;
           float: left;
           overflow: auto;
-          margin-left: 338px;
+          margin-left: 29%;
 
 } 
 
@@ -31,7 +31,7 @@ img { margin-top: 10px;
             color: white;
             float: right;
             overflow: auto;
-            margin-right: 338px;
+            margin-right: 29%;
             font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         
 } 
